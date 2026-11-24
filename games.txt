@@ -1,0 +1,74 @@
+---
+Name= Uno But In Russia
+Devloper= kaku_dev
+Download= https://cdn.jsdelivr.net/gh/KAKUDEV-web/My-apk-releses@main/Uno%20But%20In%20Russia.apk
+Icon-img= https://i.ibb.co/GB06VgH/1794371233030.png
+Screenshots= https://i.ibb.co/GB06VgH/1794371233030.png
+Catagory= Game, Funny
+Description= ~~~// ★ UNO BUT IN RUSSIA — HARDBASS EDITION ★
+
+The classic card game you love — rebuilt in a snowy Russian courtyard,
+powered by hardbass, and armed with special cards that don't just skip
+your turn… they blast your ears off.
+
+────────────────────────────────────────
+🎧 THE TWIST — THE HARDBASS METER
+────────────────────────────────────────
+Every player has a bass meter. The in-game music starts at a calm 10%
+volume. Get hit with a HAVE SOME MUSIC ♫ card and your meter climbs
++25% — and the music literally gets louder with it.
+
+Let your meter exceed 100% and you LEAVE THE GAME. Ears exploded.
+Walked out. Gone. 💀
+
+Win by emptying your hand first — or by being the last comrade
+standing after everyone else's bass detonated.
+
+────────────────────────────────────────
+🃏 THE DECK — CLASSICS + RUSSIAN ARSENAL
+• HAVE SOME MUSIC ♫ — +25% bass to the next player
+• ROULETTE 🎰     — random color, random fate: heals, bass waves,
+────────────────────────────────────────
+• SWAP HANDS 🤝   — trade your entire hand with any player
+                    swaps, misfires, rounds of kvass…
+• BAN (Skip)      — the next comrade is banned from the chat
+• BABUSHKA 🥟     — her pierogi soothe your ears: −30% bass
+
+• 3 AI opponents with real strategy — they stack, target, and call UNO
+★ FEATURES
+• 🚧 More features coming soon — babushka is coding
+• +2 / +4 / +10   — draw attacks that STACK (answer a +4 with a +10!)
+• REVERSE         — flip the direction of play
+• USHANKA 🛡      — blocks the next music hit or draw attack
+• Graceful fallbacks if media files are missing
+  КГБ (Hard)
+• UNO call system — forget to shout it and eat +2 cards
+• Cinematic video intro on every launch (with skip button)
+• One-click mute, rematch, and quit-to-menu — complete game loop
+• Soviet-constructivist main menu with a rotating 3-track soundtrack
+• Name your comrade + 3 difficulties: ДЕД (Easy), ТОВАРИЩ (Normal),
+• Live bass meter with equalizer and volume that rises toward your doom
+────────────────────────────────────────
+──────────────────────────────────────── //~~~
+
+---
+---
+Name= I like Coding?
+Devloper= kaku_dev
+Download= https://cdn.jsdelivr.net/gh/KAKUDEV-web/My-apk-releses@main/I%20Like%20Coding.apk
+Icon-img= https://i.ibb.co/KjtGyV87/1783504917960.png
+Screenshots= https://i.ibb.co/KjtGyV87/1783504917960.png
+Catagory= Game, Tech
+Description= ~~~// Let's see how much time you will take to write
+
+print("hello, world!")
+a = "lol"
+b = a 
+print(a + b)
+
+To finish the game
+
+
+This is the part one so wait for the part 2! //~~~
+
+---
